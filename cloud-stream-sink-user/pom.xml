@@ -10,6 +10,12 @@
     <name>cloud-stream-sink-user</name>
     <description>cloud-stream-sink-user</description>
 
+    <parent>
+        <groupId>com.spring.cloud.stream</groupId>
+        <artifactId>spring-cloud-stream-learn</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>

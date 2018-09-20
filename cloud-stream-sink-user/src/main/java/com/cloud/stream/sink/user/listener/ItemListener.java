@@ -7,10 +7,8 @@ import org.springframework.cloud.stream.messaging.Sink;
 import org.springframework.util.LinkedCaseInsensitiveMap;
 
 /**
- * item消息消费
+ * user消息消费
  *
- * @author linjiang
- * @since 2017/4/19
  */
 @EnableBinding(Sink.class)
 public class ItemListener {
