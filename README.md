@@ -1,7 +1,7 @@
 # spring-cloud-stream-learn
 #### spring-cloud-stream 学习
   * 参考地址： https://springcloud.cc/spring-cloud-dalston.html#_spring_cloud_stream
-  
+  * https://www.aliyun.com/jiaocheng/802567.html
 ### 操作步骤
   * 1:启动本地 zk  和 kafka服务
   * 2:启动SourceUserApplication boot服务
